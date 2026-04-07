@@ -1,7 +1,7 @@
 ## LCS Problem Hazards Detection & Visualization with RIPES
 ### Overview
 
-This project uses RISC-V Assembly to visualize hazards detected in an implementation of a Longest Common Substring (LCS) algorithm with the open graphical processor simulator.
+This project provides RISC-V Assembly for visualizing the execution and hazards of a Longest Common Substring (LCS) algorithm with the Ripes graphical processor simulator
 
 The uploaded png files shows how the pipelines got stalled in the simple in-order RISC-V processor. 
 
